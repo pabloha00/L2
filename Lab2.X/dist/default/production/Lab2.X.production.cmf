@@ -11,7 +11,7 @@
 # All addresses and the length are given in unqualified hexadecimal
 # in delta units.  Any other numeric values are decimal.
 %PSECTS
-$C:\Users\user\AppData\Local\Temp\xcAs27o.o
+$C:\Users\user\AppData\Local\Temp\xcAs76c.o
 reset_vec CODE 0 0 0 3 2
 end_init CODE 0 C C 3 2
 config CONFIG 4 2007 2007 2 2
@@ -95,22 +95,22 @@ STRING 6DB-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $dist/default/production\Lab2.X.production.o
-F cinit CODE >1223:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-F cinit CODE >1226:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-F cinit CODE >1327:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-14 cinit CODE >1328:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-15 cinit CODE >1347:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-16 cinit CODE >1348:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-17 cinit CODE >1349:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-18 cinit CODE >1350:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-19 cinit CODE >1351:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-1E cinit CODE >1354:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-1F cinit CODE >1355:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-20 cinit CODE >1356:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-21 cinit CODE >1357:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-22 cinit CODE >1363:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-22 cinit CODE >1365:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-23 cinit CODE >1366:C:\Users\user\AppData\Local\Temp\xcAs27o.s
+F cinit CODE >1223:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+F cinit CODE >1226:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+F cinit CODE >1327:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+14 cinit CODE >1328:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+15 cinit CODE >1347:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+16 cinit CODE >1348:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+17 cinit CODE >1349:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+18 cinit CODE >1350:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+19 cinit CODE >1351:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+1E cinit CODE >1354:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+1F cinit CODE >1355:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+20 cinit CODE >1356:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+21 cinit CODE >1357:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+22 cinit CODE >1363:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+22 cinit CODE >1365:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+23 cinit CODE >1366:C:\Users\user\AppData\Local\Temp\xcAs76c.s
 4 intentry CODE >78:C:\Users\user\OneDrive\Documentos\GitHub\L2\Lab2.X\main.c
 247 text21 CODE >217:C:\Users\user\OneDrive\Documentos\GitHub\L2\Lab2.X\main.c
 247 text21 CODE >218:C:\Users\user\OneDrive\Documentos\GitHub\L2\Lab2.X\main.c
@@ -541,16 +541,16 @@ F4 text11 CODE >188:C:\Users\user\OneDrive\Documentos\GitHub\L2\Lab2.X\main.c
 3B6 maintext CODE >112:C:\Users\user\OneDrive\Documentos\GitHub\L2\Lab2.X\main.c
 3BB maintext CODE >113:C:\Users\user\OneDrive\Documentos\GitHub\L2\Lab2.X\main.c
 3C0 maintext CODE >114:C:\Users\user\OneDrive\Documentos\GitHub\L2\Lab2.X\main.c
-6CC clrtext CODE >1334:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-6CC clrtext CODE >1335:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-6CD clrtext CODE >1336:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-6CD clrtext CODE >1337:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-6CE clrtext CODE >1338:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-6CF clrtext CODE >1339:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-6D0 clrtext CODE >1340:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-6D1 clrtext CODE >1341:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-6D2 clrtext CODE >1342:C:\Users\user\AppData\Local\Temp\xcAs27o.s
-6D3 clrtext CODE >1343:C:\Users\user\AppData\Local\Temp\xcAs27o.s
+6CC clrtext CODE >1334:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+6CC clrtext CODE >1335:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+6CD clrtext CODE >1336:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+6CD clrtext CODE >1337:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+6CE clrtext CODE >1338:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+6CF clrtext CODE >1339:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+6D0 clrtext CODE >1340:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+6D1 clrtext CODE >1341:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+6D2 clrtext CODE >1342:C:\Users\user\AppData\Local\Temp\xcAs76c.s
+6D3 clrtext CODE >1343:C:\Users\user\AppData\Local\Temp\xcAs76c.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -590,11 +590,11 @@ _Dec1 4C 0 BANK0 1 bssBANK0 dist/default/production\Lab2.X.production.o
 _Dec2 4B 0 BANK0 1 bssBANK0 dist/default/production\Lab2.X.production.o
 _Dec3 4A 0 BANK0 1 bssBANK0 dist/default/production\Lab2.X.production.o
 _TMR0 1 0 ABS 0 - dist/default/production\Lab2.X.production.o
-___sp 0 0 STACK 2 stack C:\Users\user\AppData\Local\Temp\xcAs27o.o
+___sp 0 0 STACK 2 stack C:\Users\user\AppData\Local\Temp\xcAs76c.o
 _main 69C 0 CODE 0 maintext dist/default/production\Lab2.X.production.o
 btemp 7E 0 ABS 0 - dist/default/production\Lab2.X.production.o
 _Lcd_Write_Char D6C 0 CODE 0 text5 dist/default/production\Lab2.X.production.o
-start 18 0 CODE 0 init C:\Users\user\AppData\Local\Temp\xcAs27o.o
+start 18 0 CODE 0 init C:\Users\user\AppData\Local\Temp\xcAs76c.o
 __size_of___awdiv 0 0 ABS 0 - dist/default/production\Lab2.X.production.o
 __size_of_USARTcon 0 0 ABS 0 - dist/default/production\Lab2.X.production.o
 __size_of_ADCL 0 0 ABS 0 - dist/default/production\Lab2.X.production.o
@@ -606,12 +606,12 @@ conver@temporal 22 0 BANK0 1 cstackBANK0 dist/default/production\Lab2.X.producti
 __LidataBANK0 0 0 ABS 0 idataBANK0 -
 __Hpowerup 0 0 CODE 0 powerup -
 __size_of_ADC_init 0 0 ABS 0 - dist/default/production\Lab2.X.production.o
-intlevel0 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs27o.o
-intlevel1 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs27o.o
-intlevel2 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs27o.o
-intlevel3 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs27o.o
-intlevel4 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs27o.o
-intlevel5 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs27o.o
+intlevel0 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs76c.o
+intlevel1 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs76c.o
+intlevel2 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs76c.o
+intlevel3 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs76c.o
+intlevel4 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs76c.o
+intlevel5 0 0 ENTRY 0 functab C:\Users\user\AppData\Local\Temp\xcAs76c.o
 __LbssCOMMON 0 0 ABS 0 bssCOMMON -
 ___bmul@multiplicand 74 0 COMMON 1 cstackCOMMON dist/default/production\Lab2.X.production.o
 _OSCCONbits 8F 0 ABS 0 - dist/default/production\Lab2.X.production.o
@@ -642,8 +642,8 @@ __end_of___awdiv 864 0 CODE 0 text16 dist/default/production\Lab2.X.production.o
 __end_of_conver 97A 0 CODE 0 text1 dist/default/production\Lab2.X.production.o
 _OPTION_REG 81 0 ABS 0 - dist/default/production\Lab2.X.production.o
 __end_of_ADC_init 48E 0 CODE 0 text19 dist/default/production\Lab2.X.production.o
-___stackhi 0 0 ABS 0 - C:\Users\user\AppData\Local\Temp\xcAs27o.o
-___stacklo 0 0 ABS 0 - C:\Users\user\AppData\Local\Temp\xcAs27o.o
+___stackhi 0 0 ABS 0 - C:\Users\user\AppData\Local\Temp\xcAs76c.o
+___stacklo 0 0 ABS 0 - C:\Users\user\AppData\Local\Temp\xcAs76c.o
 __size_of_LECT1 0 0 ABS 0 - dist/default/production\Lab2.X.production.o
 __size_of_LECT2 0 0 ABS 0 - dist/default/production\Lab2.X.production.o
 __size_of_LECT3 0 0 ABS 0 - dist/default/production\Lab2.X.production.o
@@ -660,7 +660,7 @@ __pcstackBANK0 20 0 BANK0 1 cstackBANK0 dist/default/production\Lab2.X.productio
 __size_of_num_ascii 0 0 ABS 0 - dist/default/production\Lab2.X.production.o
 __size_of_CONTADOR 0 0 ABS 0 - dist/default/production\Lab2.X.production.o
 __size_of_Lcd_Cmd 0 0 ABS 0 - dist/default/production\Lab2.X.production.o
-___int_sp 0 0 STACK 2 stack C:\Users\user\AppData\Local\Temp\xcAs27o.o
+___int_sp 0 0 STACK 2 stack C:\Users\user\AppData\Local\Temp\xcAs76c.o
 __Hbank0 0 0 ABS 0 bank0 -
 __Hbank1 0 0 ABS 0 bank1 -
 __Hbank2 0 0 ABS 0 bank2 -
@@ -731,7 +731,7 @@ __size_of_Lcd_Write_String 0 0 ABS 0 - dist/default/production\Lab2.X.production
 __stringtab C6C 0 STRING 0 strings dist/default/production\Lab2.X.production.o
 Lcd_Write_String@a 32 0 BANK0 1 cstackBANK0 dist/default/production\Lab2.X.production.o
 Lcd_Write_String@i 37 0 BANK0 1 cstackBANK0 dist/default/production\Lab2.X.production.o
-reset_vec 0 0 CODE 0 reset_vec C:\Users\user\AppData\Local\Temp\xcAs27o.o
+reset_vec 0 0 CODE 0 reset_vec C:\Users\user\AppData\Local\Temp\xcAs76c.o
 _LECT2$1143 35 0 BANK0 1 cstackBANK0 dist/default/production\Lab2.X.production.o
 _toggleTX 77 0 COMMON 1 bssCOMMON dist/default/production\Lab2.X.production.o
 __pdataBANK0 52 0 BANK0 1 dataBANK0 dist/default/production\Lab2.X.production.o
